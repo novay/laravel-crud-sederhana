@@ -1,5 +1,7 @@
 ## Laravel CRUD Sederhana
 
+![demo](https://raw.githubusercontent.com/novay/novay-gallery/master/My%20Screenshot/Demo/crud-sederhana-laravel.gif)
+
 Pengenalan serta tutorial cara pembuatan CRUD pada framework Laravel.
 
 Silahkan kunjungi di blog saya untuk penjelasan selengkapnya di :
